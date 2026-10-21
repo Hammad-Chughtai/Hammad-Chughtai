@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and exploring how systems can be better prote
 
 ## Projects
 
-- **SENTINEL** — A collaborative cybersecurity project with a friend, focused on industrial and IoT security.
+- **SENTINEL** — A collaborative cybersecurity project focused on industrial and IoT security.
 - **[LogWatch](https://github.com/Hammad-Chughtai/LogWatch)** — A tool for investigating suspicious activity in cloud and SSH authentication logs.
 - **[ENABLE](https://github.com/Hammad-Chughtai/enable-p7-)** — A project exploring more accessible digital learning experiences.
 
