@@ -1,11 +1,27 @@
-# Hi, I'm Hammad
+![Hammad Chughtai — exploring cybersecurity through practical projects](profile-assets/header.svg)
 
-I'm passionate about cybersecurity and exploring how systems can be better protected. I enjoy working on practical projects and turning ideas into something useful.
+I'm Hammad, and I'm passionate about cybersecurity. I'm exploring the field through practical projects, with a particular interest in suspicious login activity, industrial and IoT security, and how security decisions are made.
 
-## Projects
+I want the things I work on to be useful, understandable, and honest about their limits.
 
-- **SENTINEL** — A collaborative cybersecurity project focused on industrial and IoT security.
-- **[LogWatch](https://github.com/Hammad-Chughtai/LogWatch)** — A tool for investigating suspicious activity in cloud and SSH authentication logs.
-- **[ENABLE](https://github.com/Hammad-Chughtai/enable-p7-)** — A project exploring more accessible digital learning experiences.
+## Work I'm exploring
 
-My interests include cybersecurity, IoT security, and accessible technology.
+**SENTINEL · Industrial & IoT security**
+
+A collaborative research prototype combining behavioral trust scoring, isolated deception sessions, and cryptographic authorization for industrial control commands.
+
+**[LogWatch](https://github.com/Hammad-Chughtai/LogWatch) · Authentication analysis**
+
+An offline Python tool for investigating cloud and SSH login activity. It turns suspicious patterns into HTML and JSON reports with evidence to review.
+
+**[ENABLE](https://github.com/Hammad-Chughtai/enable-p7-) · Accessible technology**
+
+A project exploring how university digital systems can work better for neurodiverse students through more accessible interfaces.
+
+## Tools used in these projects
+
+Python · scikit-learn · GitHub Actions · Modbus/TCP · OpenPLC · HTML · CSS · JavaScript
+
+---
+
+Practical work. Clear explanations. Respect for privacy.
