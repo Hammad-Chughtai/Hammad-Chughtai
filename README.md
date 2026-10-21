@@ -2,7 +2,7 @@
 
 **Cybersecurity · Industrial & IoT security · Digital accessibility**
 
-I'm Hammad. My projects explore how to investigate suspicious activity, protect industrial commands, and make digital systems more accessible. I care about useful results, clear explanations, and responsible handling of data.
+I'm Hammad, and I'm passionate about cybersecurity. I'm exploring how systems can be better protected through projects in authentication analysis, industrial and IoT security, and digital accessibility. I care about useful results, clear explanations, and responsible handling of data.
 
 ## Selected work
 
