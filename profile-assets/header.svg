@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title description">
+  <title id="title">Hammad Chughtai — Cybersecurity</title>
+  <desc id="description">An original navy and teal profile header with a shield and connected nodes. Exploring cybersecurity through practical projects.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b2c"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#62e4cc"/>
+      <stop offset="1" stop-color="#56a8ee"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="298" rx="18" fill="url(#background)" stroke="#263546"/>
+  <rect x="40" y="45" width="4" height="209" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="72" y="80" fill="#6ce1cd" font-size="15" font-weight="600" letter-spacing="3">CYBERSECURITY / PRACTICAL EXPLORATION</text>
+    <text x="68" y="151" fill="#edf4ff" font-size="58" font-weight="700" letter-spacing="-1">Hammad Chughtai</text>
+    <text x="72" y="195" fill="#b3c2d5" font-size="23">Exploring how systems can be better protected.</text>
+    <text x="72" y="246" fill="#6f8ca9" font-size="16" letter-spacing="1">AUTHENTICATION ANALYSIS  /  INDUSTRIAL &amp; IoT SECURITY</text>
+  </g>
+  <g fill="none" stroke="#274253" stroke-width="2">
+    <circle cx="1082" cy="149" r="103"/>
+    <circle cx="1082" cy="149" r="81" stroke-dasharray="3 12"/>
+    <path d="M959 84H912V123H875M1204 209H1240M1082 47V27M1082 251V274"/>
+    <path d="M1169 94H1234V58M995 212H946V254"/>
+  </g>
+  <g fill="#0f1925" stroke="#62dcca" stroke-width="2">
+    <circle cx="959" cy="84" r="5"/>
+    <circle cx="875" cy="123" r="5"/>
+    <circle cx="1234" cy="58" r="5"/>
+    <circle cx="946" cy="254" r="5"/>
+    <circle cx="1240" cy="209" r="5"/>
+  </g>
+  <path d="M1082 83L1132 103V145C1132 180 1111 204 1082 219C1053 204 1032 180 1032 145V103Z" fill="#132b35" stroke="url(#accent)" stroke-width="3"/>
+  <path d="M1064 144V131C1064 107 1100 107 1100 131V144" fill="none" stroke="#8be8d7" stroke-width="4" stroke-linecap="round"/>
+  <rect x="1057" y="144" width="50" height="39" rx="7" fill="#62dcca"/>
+  <circle cx="1082" cy="160" r="4" fill="#122531"/>
+  <path d="M1082 163V170" stroke="#122531" stroke-width="3" stroke-linecap="round"/>
+</svg>
