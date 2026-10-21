@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title description">
+  <title id="title">Hammad Chughtai — Red Teaming and Penetration Testing</title>
+  <desc id="description">A dark profile header with coral red accents, a terminal, and a target motif. Exploring offensive security through practical projects.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#251621"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff697c"/>
+      <stop offset="1" stop-color="#ffac83"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="298" rx="18" fill="url(#background)" stroke="#44303b"/>
+  <rect x="40" y="45" width="4" height="209" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="72" y="80" fill="#ff8d9a" font-size="15" font-weight="600" letter-spacing="3">EXPLORING OFFENSIVE SECURITY</text>
+    <text x="68" y="151" fill="#fff1f3" font-size="58" font-weight="700" letter-spacing="-1">Hammad Chughtai</text>
+    <text x="72" y="195" fill="#ccb9c6" font-size="25">Red teaming &amp; penetration testing.</text>
+    <text x="72" y="246" fill="#b38697" font-size="16" letter-spacing="1">SECURITY ASSESSMENT  /  ATTACK PATHS  /  PRACTICAL PROJECTS</text>
+  </g>
+  <g fill="none" stroke="#593341" stroke-width="2">
+    <circle cx="1082" cy="149" r="103"/>
+    <circle cx="1082" cy="149" r="81" stroke-dasharray="3 12"/>
+    <path d="M959 84H912V123H875M1204 209H1240M1082 47V27M1082 251V274"/>
+    <path d="M1169 94H1234V58M995 212H946V254"/>
+    <path d="M976 149H1006M1158 149H1188M1082 43V72M1082 226V255" stroke="#ad6378"/>
+  </g>
+  <g fill="#1e1620" stroke="#ff8998" stroke-width="2">
+    <circle cx="959" cy="84" r="5"/>
+    <circle cx="875" cy="123" r="5"/>
+    <circle cx="1234" cy="58" r="5"/>
+    <circle cx="946" cy="254" r="5"/>
+    <circle cx="1240" cy="209" r="5"/>
+  </g>
+  <rect x="1022" y="105" width="120" height="89" rx="10" fill="#211821" stroke="url(#accent)" stroke-width="3"/>
+  <path d="M1022 127H1142" stroke="#593341" stroke-width="2"/>
+  <g fill="#ff8998">
+    <circle cx="1036" cy="117" r="3"/>
+    <circle cx="1047" cy="117" r="3"/>
+    <circle cx="1058" cy="117" r="3"/>
+  </g>
+  <path d="M1044 145L1058 157L1044 169M1072 171H1092" fill="none" stroke="#ffa497" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
