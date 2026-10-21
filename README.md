@@ -1,6 +1,6 @@
-![Hammad Chughtai — exploring cybersecurity through practical projects](profile-assets/header.svg)
+![Hammad Chughtai — red teaming and penetration testing](profile-assets/red-team-header.svg)
 
-I'm Hammad, and I'm passionate about cybersecurity. I'm exploring the field through practical projects, with a particular interest in suspicious login activity, industrial and IoT security, and how security decisions are made.
+I'm Hammad, and I'm passionate about cybersecurity. My main interests are red teaming and penetration testing: understanding weaknesses, testing defenses, and exploring how systems can be better protected.
 
 I want the things I work on to be useful, understandable, and honest about their limits.
 
